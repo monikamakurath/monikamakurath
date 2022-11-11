@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @monikamakurath
-- 👀 I’m interested in life, nature, biophysics.
-- 📫 My contact info is here: https://monikamakurath.com
+- Hi, I’m Monika. 
 
 <!---
 monikamakurath/monikamakurath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
