@@ -1,4 +1,4 @@
-- Hi, I’m Monika. During my PhD I wrote code for the analysis of single molecule 2D data. As a postdoc, I am analyzing fluorescence microscopy data in 4D. 
+- Hi, I’m Monika. During my PhD I wrote code for the analysis of single molecule 2D data. As a postdoc, I am analyzing fluorescence microscopy data in 4D. I code mostly in MATLAB. 
 
 <!---
 monikamakurath/monikamakurath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
